@@ -63,6 +63,8 @@ Background.BackgroundColor3 = Color3.new(1, 1, 1)
 Background.BackgroundTransparency = 1
 Background.Position = UDim2.new(0, 500, 0, 200)
 Background.Size = UDim2.new(0, 450, 0, 268)
+Background.Active = true
+Background.Draggable = true
 
 LeftPanel.Name = "LeftPanel"
 LeftPanel.Parent = Background
@@ -202,8 +204,6 @@ TopBar.Parent = Background
 TopBar.BackgroundColor3 = Color3.fromRGB(37, 35, 38)
 TopBar.BorderSizePixel = 0
 TopBar.Size = UDim2.new(0, 450, 0, 19)
-TopBar.Active = true
-TopBar.Draggable = true
 
 Simple.Name = "Simple"
 Simple.Parent = TopBar
