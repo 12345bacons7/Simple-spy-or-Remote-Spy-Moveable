@@ -1,4 +1,4 @@
--- loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/12345bacons7/Simple-spy-or-Remote-Spy-Moveable/refs/heads/main/Buttonvisible.lua"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/12345bacons7/Simple-spy-or-Remote-Spy-Moveable/refs/heads/main/Buttonvisible.lua"))()
 
 --[[
     SimpleSpy v2.2 SOURCE
