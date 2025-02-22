@@ -1,5 +1,3 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/12345bacons7/Simple-spy-or-Remote-Spy-Moveable/refs/heads/main/Buttonvisible.lua"))()
-
 --[[
     SimpleSpy v2.2 SOURCE
 
@@ -2590,3 +2588,5 @@ end, function()
 		codebox:setRaw(SimpleSpy:ValueToVar(selected.ReturnValue, "returnValue"))
 	end
 end)
+	loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/12345bacons7/Simple-spy-or-Remote-Spy-Moveable/refs/heads/main/Buttonvisible.lua"))()
+	
