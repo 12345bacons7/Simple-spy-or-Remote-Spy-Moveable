@@ -1,6 +1,6 @@
 # Simple-spy-or-Remote-Spy-Moveable
 Function Remote Spy
 
-``` lua
+```lua the script
 loadstring(game:HttpGet("Updating"))()
 ```
